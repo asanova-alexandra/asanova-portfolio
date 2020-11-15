@@ -25,7 +25,7 @@
 
 # Инструменты
 
-SQL SQLAlchemy Tableau Public MS PowerPoint Pandas Python
+SQL Tableau Public MS PowerPoint Pandas Python
 
 # Статус проекта
 
